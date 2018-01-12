@@ -1,6 +1,6 @@
 # Project Title
 
-One Paragraph of project description goes here
+Player de música do tg, feito no curso do wj - JSw/TDD.
 
 ## Getting Started
 

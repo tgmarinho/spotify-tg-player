@@ -1,0 +1,1 @@
+console.log('Spotfy Player Web');
