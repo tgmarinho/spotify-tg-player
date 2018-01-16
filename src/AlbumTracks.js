@@ -7,9 +7,10 @@ function createMarkup(tracks) {
     <p class="music-title">${track.name}</p>
     <p class="music-duration">${convertToHumanTime(track.duration_ms)}</p>
     </div>`).join('');
-  }
-  
+}
+
   export default function renderAlbumTracks(data, element) {
     const markup = createMarkup(data);
     element.innerHTML = markup;
   }
+  
